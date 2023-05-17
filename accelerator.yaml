@@ -1,6 +1,6 @@
 accelerator:
-  displayName: STE/STN Web App 
-  description: Template for creating a STE/STN compliant three-tier web application
+  displayName: STE/STN Consumer/Producer Microservice 
+  description: Template for creating a STE/STN compliant consumer/producer microservice utilizing RabbitMQ 
   iconUrl: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTHV6Ou05-nuX0t3U1fHJWm-wZnBPvD5xrCw&usqp=CAU
   tags:
   - simple
